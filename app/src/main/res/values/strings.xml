@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GioText</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_new_line">Create new line</string>
+    <string name="_100">100</string>
+    <string name="enter_count_number">Enter Count Number</string>
+    <string name="repeat">Repeat</string>
+    <string name="enter_your_text">Enter your text</string>
+</resources>
